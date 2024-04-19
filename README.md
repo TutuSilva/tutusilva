@@ -8,18 +8,18 @@
 <p>
   Hi 👋, I'm Tullio! A passionate student from Brazil.
 
-  - 🌱 I’m currently studying Front-End at Alura and Coursera <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+- 🌱 I’m currently studying Front-End at Alura and Coursera
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work in my area of expertise.
+- 🔭 I am looking for my first job opportunity. My dream is to one day work in my area of expertise.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have a C1 level in English and I also have experience with group work. This has helped me develop important skills such as creativity, communication, sense of community, and people management.
+- 💬 I am 24 years old, currently living in Brazil. I have a C1 level in English and I also have experience with group work. This has helped me develop important skills such as creativity, communication, sense of community, and people management.
 
-  - ⚡ I enjoy reading comics, listen good musics as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+- ⚡ I enjoy reading comics, listen good musics as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <div align="center">
