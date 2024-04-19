@@ -62,7 +62,10 @@
 ###
 
 <br clear="both">
-
+  <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.pinimg.com/originals/91/76/ec/9176ece0b81e2883651c03682020e1cd.gif" alt="Imagem">
+</p>
 ###
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qofymnvncv6bhgqj4hj3rldfgi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qofymnvncv6bhgqj4hj3rldfgi&redirect=true)
