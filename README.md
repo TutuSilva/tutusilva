@@ -63,8 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tutusilva/tutusilva/output/snake.svg" alt="Snake animation" />
-
 ###
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qofymnvncv6bhgqj4hj3rldfgi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qofymnvncv6bhgqj4hj3rldfgi&redirect=true)
